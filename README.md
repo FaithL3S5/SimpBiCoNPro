@@ -8,7 +8,7 @@ Version: 1.0
 
 ===
 
-A Simple Binary Converter and Number Processor, it accepts 2 integer input from the user. The first is the number is the main number that will get converted to binary then processed. The second is the number that the user wants to find how much of said number is inside the binary. ASimpNPro works with user defined Array, making the user free to customize how many numbers to process and how big each of the numbers are!
+A Simple Binary Converter and Number Processor, it accepts 2 integer input from the user. The first is the main number that will get converted to binary then processed. The second is the number that the user wants to find how much of said number is inside the binary. SimpBiCoNPro works with user defined Array, making the user free to customize how many numbers to process and how big each of the numbers are!
 
 The software works like this:
 1. User input an integer (for example, 13) as the main number 
